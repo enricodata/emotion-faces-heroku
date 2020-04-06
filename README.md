@@ -4,5 +4,6 @@
 
 Emotion classifier with fastai and Voila, deployed with mybinder.
 
-To see in production:
+To see it in production:
+
 click on launch binder --> click on the jupyter notebook --> click on voila
