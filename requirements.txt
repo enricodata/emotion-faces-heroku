@@ -3,7 +3,7 @@ fastai>=2
 pillow<7
 packaging
 ipywidgets==7.5.1
-https://nvidia.box.com/shared/static/cs3xn3td6sfgtene6jdvsxlr366m2dhq.whl
+https://download.pytorch.org/whl/nightly/cu101/torch-1.8.0.dev20201026%2Bcu101-cp36-cp36m-linux_x86_64.whl
 https://download.pytorch.org/whl/cu102/torchvision-0.8.1-cp38-cp38-win_amd64.whl
 
 
